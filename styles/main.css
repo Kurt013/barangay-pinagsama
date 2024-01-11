@@ -1,6 +1,6 @@
 /* First Section */
 .barangay-description {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/pinagsama-landmark.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/pinagsama-landmark.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -85,7 +85,7 @@
 }
 
 .mission-block {
-  background-image: url(images/mission.webp);
+  background-image: url("images/mission.webp");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -93,7 +93,7 @@
 }
 
 .vision-block {
-  background-image: url(images/vision.webp);
+  background-image: url("images/vision.webp");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -251,7 +251,7 @@ ABOUT SECTION
 
 /*Updates Section*/
 .update-section {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.1)), url(images/update.webp);
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.1)), url("images/update.webp");
   height: 20em;
   padding: 2em 1.5em;
   display: flex;
@@ -326,7 +326,7 @@ ABOUT SECTION
   display: flex;
   align-items: center;
   height: 20em;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)), url(images/background-pinagsama.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)), url("images/background-pinagsama.jpg");
   background-size: cover;
 }
 
@@ -349,37 +349,37 @@ ABOUT SECTION
 }
 
 .one {
-  background-image: url(images/cleanUp-drive.webp);
+  background-image: url("images/cleanUp-drive.webp");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .two {
-  background-image: url(images/barangayFire-rescueTeam.webp);
+  background-image: url("images/barangayFire-rescueTeam.webp");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .three {
-  background-image: url(images/ambulance-medic.webp);
+  background-image: url("images/ambulance-medic.webp");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .four {
-  background-image: url(images/peace-order.webp);
+  background-image: url("images/peace-order.webp");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .five {
-  background-image: url(images/CSWDO-services.webp);
+  background-image: url("images/CSWDO-services.webp");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .six {
-  background-image: url(images/scheduled-medical-mission.webp);
+  background-image: url("images/scheduled-medical-mission.webp");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -405,4 +405,3 @@ ABOUT SECTION
 .image-block:hover {
   opacity: 0;
 }
-
